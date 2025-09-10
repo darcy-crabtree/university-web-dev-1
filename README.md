@@ -1,6 +1,7 @@
 # university-web-dev-1
 
-Completed 15/11/2024
+Completed 15/11/2024.
+
 Please note this project was completed as university course work and may contain files provided by the university.
 
 # Scenario

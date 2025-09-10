@@ -1,5 +1,8 @@
 # university-web-dev-1
 
+Completed 15/11/2024
+Please note this project was completed as university course work and may contain files provided by the university.
+
 # Scenario
 A list of medication, displaying their name, whether there is a contraindication and any medication it interacts with. Allowing users to add, remove and edit medications.
 # Basic requirement implementation
